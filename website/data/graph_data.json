@@ -1,0 +1,650 @@
+{
+ "nodes": [
+  {
+   "id": "Felix Feng",
+   "type": "person_center",
+   "size": 40,
+   "weight": 0
+  },
+  {
+   "id": "Metastatic / advanced disease",
+   "type": "topic",
+   "size": 260,
+   "weight": 250
+  },
+  {
+   "id": "Radiotherapy / radiation oncology",
+   "type": "topic",
+   "size": 195,
+   "weight": 185
+  },
+  {
+   "id": "Genomic risk stratification / biomarkers",
+   "type": "topic",
+   "size": 152,
+   "weight": 142
+  },
+  {
+   "id": "Androgen receptor biology",
+   "type": "topic",
+   "size": 151,
+   "weight": 141
+  },
+  {
+   "id": "Clinical trials / NRG Oncology",
+   "type": "topic",
+   "size": 141,
+   "weight": 131
+  },
+  {
+   "id": "Transcriptomics / gene expression profiling",
+   "type": "topic",
+   "size": 120,
+   "weight": 110
+  },
+  {
+   "id": "Hormone therapy / ADT",
+   "type": "topic",
+   "size": 109,
+   "weight": 99
+  },
+  {
+   "id": "Castration-resistant prostate cancer",
+   "type": "topic",
+   "size": 97,
+   "weight": 87
+  },
+  {
+   "id": "Salvage / post-prostatectomy therapy",
+   "type": "topic",
+   "size": 85,
+   "weight": 75
+  },
+  {
+   "id": "Active surveillance / localized disease",
+   "type": "topic",
+   "size": 78,
+   "weight": 68
+  },
+  {
+   "id": "Decipher genomic classifier",
+   "type": "topic",
+   "size": 48,
+   "weight": 38
+  },
+  {
+   "id": "PARP inhibition / DNA repair",
+   "type": "topic",
+   "size": 46,
+   "weight": 36
+  },
+  {
+   "id": "PCAT1 / lncRNAs",
+   "type": "topic",
+   "size": 35,
+   "weight": 25
+  },
+  {
+   "id": "TMPRSS2-ERG fusion",
+   "type": "topic",
+   "size": 29,
+   "weight": 19
+  },
+  {
+   "id": "Immunotherapy / gene therapy",
+   "type": "topic",
+   "size": 25,
+   "weight": 15
+  },
+  {
+   "id": "Circulating tumor DNA / liquid biopsy",
+   "type": "topic",
+   "size": 24,
+   "weight": 14
+  },
+  {
+   "id": "Daniel E Spratt",
+   "type": "collaborator",
+   "size": 126,
+   "weight": 118
+  },
+  {
+   "id": "Paul L Nguyen",
+   "type": "collaborator",
+   "size": 76,
+   "weight": 68
+  },
+  {
+   "id": "Howard M Sandler",
+   "type": "collaborator",
+   "size": 68,
+   "weight": 60
+  },
+  {
+   "id": "Shuang G Zhao",
+   "type": "collaborator",
+   "size": 66,
+   "weight": 58
+  },
+  {
+   "id": "Elai Davicioni",
+   "type": "collaborator",
+   "size": 65,
+   "weight": 57
+  },
+  {
+   "id": "Todd M Morgan",
+   "type": "collaborator",
+   "size": 56,
+   "weight": 48
+  },
+  {
+   "id": "Arul M Chinnaiyan",
+   "type": "collaborator",
+   "size": 56,
+   "weight": 48
+  },
+  {
+   "id": "Eric J Small",
+   "type": "collaborator",
+   "size": 51,
+   "weight": 43
+  },
+  {
+   "id": "Rohit Mehra",
+   "type": "collaborator",
+   "size": 51,
+   "weight": 43
+  },
+  {
+   "id": "Brandon A Mahal",
+   "type": "collaborator",
+   "size": 48,
+   "weight": 40
+  },
+  {
+   "id": "Robert T Dess",
+   "type": "collaborator",
+   "size": 47,
+   "weight": 39
+  },
+  {
+   "id": "Martin Sj\u00f6str\u00f6m",
+   "type": "collaborator",
+   "size": 46,
+   "weight": 38
+  },
+  {
+   "id": "David A Quigley",
+   "type": "collaborator",
+   "size": 45,
+   "weight": 37
+  },
+  {
+   "id": "William C Jackson",
+   "type": "collaborator",
+   "size": 45,
+   "weight": 37
+  },
+  {
+   "id": "Daniel A Hamstra",
+   "type": "collaborator",
+   "size": 45,
+   "weight": 37
+  },
+  {
+   "id": "Edward M Schaeffer",
+   "type": "collaborator",
+   "size": 44,
+   "weight": 36
+  },
+  {
+   "id": "Robert B Den",
+   "type": "collaborator",
+   "size": 41,
+   "weight": 33
+  },
+  {
+   "id": "Jason A Efstathiou",
+   "type": "collaborator",
+   "size": 40,
+   "weight": 32
+  },
+  {
+   "id": "Phuoc T Tran",
+   "type": "collaborator",
+   "size": 40,
+   "weight": 32
+  },
+  {
+   "id": "Amar U Kishan",
+   "type": "collaborator",
+   "size": 40,
+   "weight": 32
+  },
+  {
+   "id": "Jonathan Chou",
+   "type": "collaborator",
+   "size": 39,
+   "weight": 31
+  },
+  {
+   "id": "Robert E Reiter",
+   "type": "collaborator",
+   "size": 37,
+   "weight": 29
+  }
+ ],
+ "edges": [
+  {
+   "source": "Felix Feng",
+   "target": "Metastatic / advanced disease",
+   "weight": 250
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 185
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Genomic risk stratification / biomarkers",
+   "weight": 142
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Androgen receptor biology",
+   "weight": 141
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Clinical trials / NRG Oncology",
+   "weight": 131
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Transcriptomics / gene expression profiling",
+   "weight": 110
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Hormone therapy / ADT",
+   "weight": 99
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Castration-resistant prostate cancer",
+   "weight": 87
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Salvage / post-prostatectomy therapy",
+   "weight": 75
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Active surveillance / localized disease",
+   "weight": 68
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Decipher genomic classifier",
+   "weight": 38
+  },
+  {
+   "source": "Felix Feng",
+   "target": "PARP inhibition / DNA repair",
+   "weight": 36
+  },
+  {
+   "source": "Felix Feng",
+   "target": "PCAT1 / lncRNAs",
+   "weight": 25
+  },
+  {
+   "source": "Felix Feng",
+   "target": "TMPRSS2-ERG fusion",
+   "weight": 19
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Immunotherapy / gene therapy",
+   "weight": 15
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Circulating tumor DNA / liquid biopsy",
+   "weight": 14
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Daniel E Spratt",
+   "weight": 118
+  },
+  {
+   "source": "Daniel E Spratt",
+   "target": "Metastatic / advanced disease",
+   "weight": 74
+  },
+  {
+   "source": "Daniel E Spratt",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 72
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Paul L Nguyen",
+   "weight": 68
+  },
+  {
+   "source": "Paul L Nguyen",
+   "target": "Metastatic / advanced disease",
+   "weight": 43
+  },
+  {
+   "source": "Paul L Nguyen",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 38
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Howard M Sandler",
+   "weight": 60
+  },
+  {
+   "source": "Howard M Sandler",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 53
+  },
+  {
+   "source": "Howard M Sandler",
+   "target": "Clinical trials / NRG Oncology",
+   "weight": 45
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Shuang G Zhao",
+   "weight": 58
+  },
+  {
+   "source": "Shuang G Zhao",
+   "target": "Metastatic / advanced disease",
+   "weight": 41
+  },
+  {
+   "source": "Shuang G Zhao",
+   "target": "Transcriptomics / gene expression profiling",
+   "weight": 32
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Elai Davicioni",
+   "weight": 57
+  },
+  {
+   "source": "Elai Davicioni",
+   "target": "Metastatic / advanced disease",
+   "weight": 40
+  },
+  {
+   "source": "Elai Davicioni",
+   "target": "Genomic risk stratification / biomarkers",
+   "weight": 36
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Todd M Morgan",
+   "weight": 48
+  },
+  {
+   "source": "Todd M Morgan",
+   "target": "Metastatic / advanced disease",
+   "weight": 30
+  },
+  {
+   "source": "Todd M Morgan",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 26
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Arul M Chinnaiyan",
+   "weight": 48
+  },
+  {
+   "source": "Arul M Chinnaiyan",
+   "target": "Metastatic / advanced disease",
+   "weight": 29
+  },
+  {
+   "source": "Arul M Chinnaiyan",
+   "target": "Castration-resistant prostate cancer",
+   "weight": 20
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Eric J Small",
+   "weight": 43
+  },
+  {
+   "source": "Eric J Small",
+   "target": "Metastatic / advanced disease",
+   "weight": 37
+  },
+  {
+   "source": "Eric J Small",
+   "target": "Castration-resistant prostate cancer",
+   "weight": 29
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Rohit Mehra",
+   "weight": 43
+  },
+  {
+   "source": "Rohit Mehra",
+   "target": "Metastatic / advanced disease",
+   "weight": 27
+  },
+  {
+   "source": "Rohit Mehra",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 21
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Brandon A Mahal",
+   "weight": 40
+  },
+  {
+   "source": "Brandon A Mahal",
+   "target": "Metastatic / advanced disease",
+   "weight": 22
+  },
+  {
+   "source": "Brandon A Mahal",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 21
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Robert T Dess",
+   "weight": 39
+  },
+  {
+   "source": "Robert T Dess",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 31
+  },
+  {
+   "source": "Robert T Dess",
+   "target": "Metastatic / advanced disease",
+   "weight": 25
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Martin Sj\u00f6str\u00f6m",
+   "weight": 38
+  },
+  {
+   "source": "Martin Sj\u00f6str\u00f6m",
+   "target": "Metastatic / advanced disease",
+   "weight": 24
+  },
+  {
+   "source": "Martin Sj\u00f6str\u00f6m",
+   "target": "Transcriptomics / gene expression profiling",
+   "weight": 22
+  },
+  {
+   "source": "Felix Feng",
+   "target": "David A Quigley",
+   "weight": 37
+  },
+  {
+   "source": "David A Quigley",
+   "target": "Metastatic / advanced disease",
+   "weight": 29
+  },
+  {
+   "source": "David A Quigley",
+   "target": "Transcriptomics / gene expression profiling",
+   "weight": 25
+  },
+  {
+   "source": "Felix Feng",
+   "target": "William C Jackson",
+   "weight": 37
+  },
+  {
+   "source": "William C Jackson",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 32
+  },
+  {
+   "source": "William C Jackson",
+   "target": "Metastatic / advanced disease",
+   "weight": 24
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Daniel A Hamstra",
+   "weight": 37
+  },
+  {
+   "source": "Daniel A Hamstra",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 35
+  },
+  {
+   "source": "Daniel A Hamstra",
+   "target": "Metastatic / advanced disease",
+   "weight": 23
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Edward M Schaeffer",
+   "weight": 36
+  },
+  {
+   "source": "Edward M Schaeffer",
+   "target": "Metastatic / advanced disease",
+   "weight": 29
+  },
+  {
+   "source": "Edward M Schaeffer",
+   "target": "Genomic risk stratification / biomarkers",
+   "weight": 25
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Robert B Den",
+   "weight": 33
+  },
+  {
+   "source": "Robert B Den",
+   "target": "Metastatic / advanced disease",
+   "weight": 26
+  },
+  {
+   "source": "Robert B Den",
+   "target": "Genomic risk stratification / biomarkers",
+   "weight": 19
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Jason A Efstathiou",
+   "weight": 32
+  },
+  {
+   "source": "Jason A Efstathiou",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 28
+  },
+  {
+   "source": "Jason A Efstathiou",
+   "target": "Clinical trials / NRG Oncology",
+   "weight": 25
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Phuoc T Tran",
+   "weight": 32
+  },
+  {
+   "source": "Phuoc T Tran",
+   "target": "Metastatic / advanced disease",
+   "weight": 24
+  },
+  {
+   "source": "Phuoc T Tran",
+   "target": "Clinical trials / NRG Oncology",
+   "weight": 23
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Amar U Kishan",
+   "weight": 32
+  },
+  {
+   "source": "Amar U Kishan",
+   "target": "Radiotherapy / radiation oncology",
+   "weight": 23
+  },
+  {
+   "source": "Amar U Kishan",
+   "target": "Metastatic / advanced disease",
+   "weight": 22
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Jonathan Chou",
+   "weight": 31
+  },
+  {
+   "source": "Jonathan Chou",
+   "target": "Metastatic / advanced disease",
+   "weight": 21
+  },
+  {
+   "source": "Jonathan Chou",
+   "target": "Genomic risk stratification / biomarkers",
+   "weight": 14
+  },
+  {
+   "source": "Felix Feng",
+   "target": "Robert E Reiter",
+   "weight": 29
+  },
+  {
+   "source": "Robert E Reiter",
+   "target": "Metastatic / advanced disease",
+   "weight": 24
+  },
+  {
+   "source": "Robert E Reiter",
+   "target": "Clinical trials / NRG Oncology",
+   "weight": 15
+  }
+ ]
+}
