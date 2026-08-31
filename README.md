@@ -17,4 +17,4 @@ Publication data was pulled directly from the National Library of Medicine's Pub
 
 ## Live site
 
-The interactive knowledge graph is also deployed at: https://www.perplexity.ai/computer/a/the-feng-corpus-H.kec2YHTROAwwFOXmJ71Q
+The interactive knowledge graph is also deployed at: https://kpienta-cloud.github.io/FENG/
