@@ -1,5 +1,7 @@
 # FENG — In Memory of Felix Y. Feng, MD (1975–2024)
 
+> **This repository has moved and is archived.** The maintained version, including the October 2026 corpus refresh (556 papers) and the current manuscript revision, lives at [github.com/Cancer-Ecology-Center/FENG](https://github.com/Cancer-Ecology-Center/FENG). The live knowledge graph is at [cancer-ecology-center.github.io/FENG](https://cancer-ecology-center.github.io/FENG/). The contents here reflect the August 2026 build and are kept for reference only.
+
 Materials prepared for the Feng Symposium on Prostate Cancer Revolutions keynote, **"Transformative Science and the Big Questions Shaping the Future of Prostate Cancer,"** delivered by Kenneth J. Pienta, MD (The Johns Hopkins University School of Medicine).
 
 Felix Y. Feng, MD was a radiation oncologist and translational prostate cancer researcher at UCSF (and previously the University of Michigan) who died of cancer on December 10, 2024, at age 48. This repository holds the research, writing, and visualization built to honor his scientific legacy.
